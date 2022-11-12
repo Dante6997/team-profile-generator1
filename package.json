@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dante6997/team-profile-generator1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dante6997/team-profile-generator1/issues"
+  },
+  "homepage": "https://github.com/Dante6997/team-profile-generator1#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
